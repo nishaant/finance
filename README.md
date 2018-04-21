@@ -1,3 +1,4 @@
+ Look in Raw View for better representation.
  steps to run this File: -
 >> Install python in your system.
 >> setup environment variable, so that you can run python from any path(search on youtube for this).
